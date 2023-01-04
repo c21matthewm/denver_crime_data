@@ -30,7 +30,16 @@
 
 * The first bar chart shows very little change in the trend of overall crime in Denver over the time period. Each year has a fairly consistent number.
 
-* The second line plot shows the changes over the time period in the amount of each crime category reported. This chart reveals that the same crime categories are prevalent in each year in the dataset even if the total number varies. Crime categories such as arson have seen very low numbers every year.
+* The second line plot shows the changes over the time period in the amount of each crime category reported. This chart reveals that the same crime categories are prevalent in each year in the dataset even if the total number varies. Crime categories such as arson have seen very low numbers every year. That is the area of analysis that will be further explored.
+<br />
+<br />
+
+***
+![](images/total_crime_by_category.png)
+
+
+* This horizontal bar chart shows the cumulative count of each category of crime over the time period. Through this visualization, it becomes apparent that traffic accidents and other non-violent crimes account for most of the data. Since violent crime is usually of a larger concern for individual safety, that is the area of analysis that will be further explored.
+***
 <br />
 <br />
 
@@ -50,10 +59,25 @@
 <br />
 
 
-![](images/heatmap.png)
+![](images/total_crime_heatmap.png)
 <br />
 
 * This heatmap does a better job helping visualize the distribution of crime throughout the city. It shows that the total amount of crime is pretty equally distributed throughout the whole area. 
+***
+<br />
+<br />
+
+
+## **Violent Crime Analysis**
+***
+
+![](images/violent_crime_heatmap.png)
+<br />
+
+* Violent crimes were chosen to be sexual assault, murder, robbery, and aggravated assault. The violent crimes heatmap shows a very similar pattern to the overall crime heatmap. There is a slight bigger concentration in the central downtown area, but still distribution throughout the whole city limits.
+
+<br />
+<br />
 
 
 
