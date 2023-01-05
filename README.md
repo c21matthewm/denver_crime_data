@@ -79,7 +79,6 @@
 
 * The first location analysis was done by counting the total number of crimes in each of the 7 police districts over the whole time period.
 <br />
-
 ## **Crimes per District**
 ***
 ![](images/crimes_per_district.png)
@@ -103,7 +102,6 @@
 ## **Violent Crime Analysis**
 ***
 <br />
-
 ## **Violent/Non-Violent Crimes per Year**
 ***
 ![](images/vio_nonvio_crimes_per_year.png)
