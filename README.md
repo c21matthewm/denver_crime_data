@@ -58,7 +58,6 @@
 
 
 * This horizontal bar chart shows the cumulative count of each category of crime over the time period. Through this visualization, it becomes apparent that traffic accidents and other non-violent crimes account for most of the data. Since violent crime is usually of a larger concern for individual safety, that is the area of analysis that will be further explored.
-***
 <br />
 <br />
 
@@ -80,7 +79,6 @@
 
 * The first location analysis was done by counting the total number of crimes in each of the 7 police districts over the whole time period.
 <br />
-<br />
 
 ## **Crimes per District**
 ***
@@ -97,7 +95,6 @@
 <br />
 
 * This heatmap does a better job helping visualize the distribution of crime throughout the city. It shows that the total amount of crime is pretty equally distributed throughout the whole area with only a slight concentration in the downtown area.
-***
 <br />
 <br />
 <br />
@@ -105,7 +102,6 @@
 
 ## **Violent Crime Analysis**
 ***
-<br />
 <br />
 
 ## **Violent/Non-Violent Crimes per Year**
