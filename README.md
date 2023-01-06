@@ -109,7 +109,7 @@
 ![](images/vio_nonvio_crimes_per_year.png)
 <br />
 
-* TViolent crimes were chosen to be sexual assault, murder, robbery, aggravated assault, and other crimes against persons. This stacked bar chart shows a direct comparison between the amount of crimes committed each year classified as either violent or non-violent. Non-violent crimes happen in significantly larger numbers and the ratio appears to stay fairly consistent across all 5 years in the dataset.
+* Violent crimes were chosen to be sexual assault, murder, robbery, aggravated assault, and other crimes against persons. This stacked bar chart shows a direct comparison between the amount of crimes committed each year classified as either violent or non-violent. Non-violent crimes happen in significantly larger numbers and the ratio appears to stay fairly consistent across all 5 years in the dataset.
 
 <br />
 <br />
